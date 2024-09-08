@@ -1,5 +1,5 @@
 # pregunta.py
-from alternativa import Alternativa
+from Alternativa import Alternativa
 
 class Pregunta:
     def __init__(self, enunciado, es_requerida, alternativas, ayuda=None):
