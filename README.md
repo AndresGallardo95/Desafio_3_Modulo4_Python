@@ -32,4 +32,4 @@ El proyecto está organizado en los siguientes archivos de Python:
 1. **Clona el repositorio o descarga el código fuente:**
 
    ```bash
-   git clone <URL_del_repositorio>
+   git clone https://github.com/AndresGallardo95/Desafio_3_Modulo4_Python.git
